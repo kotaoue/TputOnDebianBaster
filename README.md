@@ -10,4 +10,5 @@ root@CONTAINER-ID:/# tput cols
 ```
 
 ## Links
+* https://go.dev/play/p/alLdPH6IF7P
 * https://github.com/GoogleContainerTools/skaffold/issues/6254
